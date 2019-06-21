@@ -8,7 +8,7 @@
 
     with the Header `X-AUTH-APIKEY` for authentication.
 
-2. If [Content Distribution Protection](https://docs.3q.video/de/Erweiterungen_&_Plugins/Content-Absicherung%20/index.html#page_Beispiel-Schlusselerzeugung-2) enabled, generate `[HASH]` and `[TimeStamp]`
+2. If [Content Distribution Protection](https://docs.3q.video/de/Erweiterungen_&_Plugins/Content-Absicherung%20/index.html#page_Content-Distribution-Protection) enabled, generate `[HASH]` and `[TimeStamp]`
 
     Get SecurityKey from API
     
